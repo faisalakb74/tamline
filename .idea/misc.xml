@@ -4,10 +4,13 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/user/AndroidStudioProjects/tamline/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.21296296296296297" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/tamline/app/src/main/res/drawable/backgroundnavigasi.xml" value="0.2203125" />
         <entry key="..\:/Users/user/AndroidStudioProjects/tamline/app/src/main/res/drawable/buttonradius.xml" value="0.2203125" />
         <entry key="..\:/Users/user/AndroidStudioProjects/tamline/app/src/main/res/drawable/ic_launcher_background.xml" value="0.21296296296296297" />
         <entry key="..\:/Users/user/AndroidStudioProjects/tamline/app/src/main/res/drawable/outlineborder.xml" value="0.2203125" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/tamline/app/src/main/res/drawable/rectangle.xml" value="0.2203125" />
         <entry key="..\:/Users/user/AndroidStudioProjects/tamline/app/src/main/res/font/poppins.xml" value="0.9" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/tamline/app/src/main/res/layout/activity_akun.xml" value="0.33" />
         <entry key="..\:/Users/user/AndroidStudioProjects/tamline/app/src/main/res/layout/activity_daftar_favorit.xml" value="0.5" />
         <entry key="..\:/Users/user/AndroidStudioProjects/tamline/app/src/main/res/layout/activity_login.xml" value="0.18659420289855072" />
         <entry key="..\:/Users/user/AndroidStudioProjects/tamline/app/src/main/res/layout/activity_login_bengkel.xml" value="0.18659420289855072" />
