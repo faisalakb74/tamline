@@ -5,6 +5,7 @@ import androidx.appcompat.app.AppCompatActivity;
 import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
+import android.widget.Button;
 import android.widget.TextView;
 
 public class loginPenggunaActivity extends AppCompatActivity {
@@ -31,6 +32,14 @@ public class loginPenggunaActivity extends AppCompatActivity {
                 Intent myIntent = new Intent(loginPenggunaActivity.this, signupPenggunaActivity.class);
                 startActivity(myIntent);
                 return;
+            }
+        });
+
+        Button masuk = findViewById(R.id.buttonMasukPengguna);
+        masuk.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                startActivity(new Intent(loginPenggunaActivity.this, akunActivity.class));
             }
         });
     }
